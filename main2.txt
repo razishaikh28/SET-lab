@@ -1,0 +1,1 @@
+This is main2.txt in branch-2 (after merging branch-1 into main)
